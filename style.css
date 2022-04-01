@@ -122,4 +122,14 @@ h1 {
   html {
     font-size: 40.5%;
   }
+  h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+  }
+  header {
+    border-bottom: 4px solid #eee;
+  }
+  .message {
+    line-height: 16px;
+  }
 }
